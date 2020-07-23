@@ -1,24 +1,15 @@
 # el-form-plus
 
-## Project setup
-```
-yarn install
-```
+## 同一个表单，同一个世界
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+**概览**
+![UOpRMj.png](https://s1.ax1x.com/2020/07/23/UOpRMj.png)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+**新增**
+![UOpWss.png](https://s1.ax1x.com/2020/07/23/UOpWss.png)
 
-### Lints and fixes files
-```
-yarn lint
-```
+**编辑**
+![UOp4Zq.png](https://s1.ax1x.com/2020/07/23/UOp4Zq.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+**查看**
+![UOpfLn.png](https://s1.ax1x.com/2020/07/23/UOpfLn.png)
